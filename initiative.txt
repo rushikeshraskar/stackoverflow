@@ -1,0 +1,23 @@
+Building this project for learning purpose.
+
+It will be similar to the stackoverflow site.
+Following will be the functions performed by this application.
+1)Users -> 1) normal users
+	   2) Admin
+2) normal users will post the questions regarding various work areas/ technologies.
+3) other users will post various answers for it.
+4) Answers/question will have functionality to comment on it, up-vote, down-vote(for ans).
+5) Only one correct answer will be accepted by the user who originaly posted the question.
+6) Architectural things to implement:
+	1) load balancing
+	2) microservice architecture
+	3) docker
+	4) oauth if possible
+7) work areas/ technologies ==> tags
+8) dashboard for all users where they will see their personal information, questions that they posted
+9) admin will be able to see all the latest questions/ answers posted by the users.
+10) admin will be able to take action on inappropriate, off-topic questions, answers or comments. ( delete )
+11) delete question/answer (if question is deleted then all the answers will also be deleted)
+12) other users will be able to browse the content on the site.
+13) 
+	
