@@ -1,4 +1,4 @@
-package com.rushikesh.authentication.app;
+package com.rushikesh.authentication.model;
 
 public class AuthenticationRequest {
 

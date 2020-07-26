@@ -1,4 +1,4 @@
-package com.rushikesh.authentication.app;
+package com.rushikesh.authentication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

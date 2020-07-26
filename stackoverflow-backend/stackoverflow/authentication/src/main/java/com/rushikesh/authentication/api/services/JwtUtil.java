@@ -1,4 +1,4 @@
-package com.rushikesh.authentication.app.api.services;
+package com.rushikesh.authentication.api.services;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

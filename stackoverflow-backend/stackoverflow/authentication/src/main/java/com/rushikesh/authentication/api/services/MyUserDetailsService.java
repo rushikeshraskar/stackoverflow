@@ -1,4 +1,4 @@
-package com.rushikesh.authentication.app.api.services;
+package com.rushikesh.authentication.api.services;
 
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
