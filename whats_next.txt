@@ -1,0 +1,10 @@
+in psql db basic tables created.
+hello world rest api created with creds in applications.properties
+mapper xmls created in core
+need to work on DAO
+connect to db
+test few apis
+basic api for insert update delete operations on db
+then dashboard related apis
+
+then from frontend login , dashboard
