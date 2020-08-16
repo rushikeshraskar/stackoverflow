@@ -6,4 +6,8 @@
     <select id="getUserCnt" resultType="java.lang.Integer">
         select count(*) from Users
     </select>
+
+    <select id="getAllUsers" resultType="com.stackoverflow.models.User">
+        select * from Users
+    </select>
 </mapper>
